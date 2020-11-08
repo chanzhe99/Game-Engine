@@ -1,0 +1,14 @@
+﻿  Game.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Projects\C++\GameEngine\GameEngine\SDK\glfw-3.3.2.bin.WIN32\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  main.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Projects\C++\GameEngine\GameEngine\SDK\glfw-3.3.2.bin.WIN32\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameProject\main.cpp(16,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GameProject.vcxproj -> D:\Projects\C++\GameEngine\Debug\GameProject.exe

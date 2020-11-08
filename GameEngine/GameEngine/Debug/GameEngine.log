@@ -1,0 +1,61 @@
+﻿  Application.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\Projects\C++\GameEngine\GameEngine\SDK\glfw-3.3.2.bin.WIN32\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+D:\Projects\C++\GameEngine\GameEngine\Application.cpp(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Application.cpp(74,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Application.cpp(85,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Color.cpp
+D:\Projects\C++\GameEngine\GameEngine\Color.cpp(5,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  GameObject.cpp
+D:\Projects\C++\GameEngine\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Matrix.cpp
+D:\Projects\C++\GameEngine\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ParticleAffector.cpp
+D:\Projects\C++\GameEngine\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  ParticleEmitter.cpp
+D:\Projects\C++\GameEngine\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\ParticleEmitter.cpp(20,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\ParticleEmitter.cpp(20,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\ParticleEmitter.cpp(38,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\ParticleEmitter.cpp(38,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ParticleObject.cpp
+D:\Projects\C++\GameEngine\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  ParticleSystem.cpp
+D:\Projects\C++\GameEngine\GameEngine\Vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\ParticleSystem.cpp(93,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\ParticleSystem.cpp(93,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\ParticleSystem.cpp(85,8): warning C4101: 'RandLifetime': unreferenced local variable
+  Photon.cpp
+  Sprite.cpp
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.h(35,38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.cpp(5,16): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Projects\C++\GameEngine\GameEngine\Sprite.cpp(6,16): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+glu32.lib(GLU32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+Photon-cpp_vc14_debug_windows_md_Win32.lib(bcrypt.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+Photon-cpp_vc14_debug_windows_md_Win32.lib(WINMM.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+Photon-cpp_vc14_debug_windows_md_Win32.lib(urlmon.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+Photon-cpp_vc14_debug_windows_md_Win32.lib(WS2_32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+Photon-cpp_vc14_debug_windows_md_Win32.lib(WININET.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+  GameEngine.vcxproj -> D:\Projects\C++\GameEngine\Debug\GameEngine.lib
