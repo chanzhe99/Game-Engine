@@ -159,7 +159,6 @@
     <ClInclude Include="ParticleEmitter.h" />
     <ClInclude Include="ParticleObject.h" />
     <ClInclude Include="ParticleSystem.h" />
-    <ClInclude Include="Photon.h" />
     <ClInclude Include="Sprite.h" />
     <ClInclude Include="Vector.h" />
     <ClInclude Include="Vector2.h" />
@@ -173,7 +172,6 @@
     <ClCompile Include="ParticleEmitter.cpp" />
     <ClCompile Include="ParticleObject.cpp" />
     <ClCompile Include="ParticleSystem.cpp" />
-    <ClCompile Include="Photon.cpp" />
     <ClCompile Include="Sprite.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
